@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'YourFontName'; /*a name to be used later*/
+    src: url(sansation_light.woff);
+}
+
+.carousel_button {
+    border-radius: 99px;
+}
+
+body{
+    font-family: 'YourFontName', 'Arial';
+}
+    
