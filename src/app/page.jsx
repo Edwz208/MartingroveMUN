@@ -1,13 +1,13 @@
-// import Carousel from './carousel.jsx'
+import Carousel from './carousel.jsx'
 
 const HomePage = () => {
   return (
-    <main>
-      Home 
-      {/* <Navbar />
-      <Carousel />
-      <HomeText /> */}
-
+    <main> 
+      { 
+      <Carousel/>
+      // <Navbar />
+      // <HomeText /> 
+      }
     </main>
   );
 };
